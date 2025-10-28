@@ -1,6 +1,6 @@
 # Worktree Manager - Bash Version
 
-This is a bash adaptation of the zsh worktree manager with improved flexibility and directory structure. The command is named `wt` (short for "worktree") to avoid conflicts with the Unix `w` command.
+This is a bash adaptation of the zsh [worktree manager](https://gist.github.com/rorydbain/e20e6ab0c7cc027fc1599bd2e430117d) with improved flexibility and directory structure. The command is named `wt` (short for "worktree") to avoid conflicts with the Unix `w` command.
 
 ## Key Improvements
 
